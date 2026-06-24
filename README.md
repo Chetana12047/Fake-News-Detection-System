@@ -100,6 +100,7 @@ Fake-News-Detection-System/
 Clone Repository
 
 git clone https://github.com/Chetana12047/Fake-News-Detection-System.git
+
 Navigate to Project Folder
 
 cd fake-news-detection-system
